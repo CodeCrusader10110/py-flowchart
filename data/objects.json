@@ -1,0 +1,22 @@
+{
+    "I0krCYxIKFaq": {
+        "label": "Database 01",
+        "refs": [],
+        "styleType": "database"
+    },
+    "k1bqB2aX2PF1": {
+        "label": "Table 01",
+        "refs": ["I0krCYxIKFaq"],
+        "styleType": "table"
+    },
+    "i7RDbe4I3jrM": {
+        "label": "Table 02",
+        "refs": ["I0krCYxIKFaq"],
+        "styleType": "table"
+    },
+    "TSRtYeMpuIvl": {
+        "label": "View 01",
+        "refs": ["k1bqB2aX2PF1", "i7RDbe4I3jrM"],
+        "styleType": "table"
+    }
+}
