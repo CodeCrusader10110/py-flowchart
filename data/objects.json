@@ -1,22 +1,32 @@
 {
+    "hmJ2D5Ialm75": {
+        "label": "API Endpoint 01",
+        "refs": [],
+        "style": "red_api"
+    },
+    "UFnqQtTYK5Rx": {
+        "label": "Connector 01",
+        "refs": ["hmJ2D5Ialm75"],
+        "style": "red_connector"
+    },
     "I0krCYxIKFaq": {
         "label": "Database 01",
-        "refs": [],
-        "styleType": "database"
+        "refs": ["UFnqQtTYK5Rx"],
+        "style": "red_database"
     },
     "k1bqB2aX2PF1": {
         "label": "Table 01",
         "refs": ["I0krCYxIKFaq"],
-        "styleType": "table"
+        "style": "red_table"
     },
     "i7RDbe4I3jrM": {
         "label": "Table 02",
         "refs": ["I0krCYxIKFaq"],
-        "styleType": "table"
+        "style": "red_table"
     },
     "TSRtYeMpuIvl": {
         "label": "View 01",
         "refs": ["k1bqB2aX2PF1", "i7RDbe4I3jrM"],
-        "styleType": "table"
+        "style": "red_table"
     }
 }

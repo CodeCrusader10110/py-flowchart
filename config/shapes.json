@@ -1,0 +1,17 @@
+{
+    "cloud": {
+        "shape": "cloud"
+    },
+    "diamond": {
+        "shape": "rhombus"
+    },
+    "note": {
+        "shape": "note"
+    },
+    "cylinder": {
+        "shape": "cylinder3"
+    },
+    "cube": {
+        "shape": "cube"
+    }
+}

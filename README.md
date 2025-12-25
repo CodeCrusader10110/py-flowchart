@@ -6,3 +6,5 @@ Links to help with development:
 * https://docs.python.org/3/library/json.html
 * https://www.w3schools.com/python/python_json.asp
 * https://realpython.com/python-json/
+
+Look into "drawpyo" in order to generate flowcharts without requiring users to open draw.io at all.

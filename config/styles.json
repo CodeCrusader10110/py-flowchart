@@ -1,0 +1,82 @@
+{
+    "red_api": {
+        "shape": "cloud",
+        "color": "red"
+    },
+    "red_connector": {
+        "shape": "diamond",
+        "color": "red"
+    },
+    "red_script": {
+        "shape": "note",
+        "color": "red"
+    },
+    "red_database": {
+        "shape": "cylinder",
+        "color": "red"
+    },
+    "red_table": {
+        "shape": "cube",
+        "color": "red"
+    },
+    "yellow_api": {
+        "shape": "cloud",
+        "color": "yellow"
+    },
+    "yellow_connector": {
+        "shape": "diamond",
+        "color": "yellow"
+    },
+    "yellow_script": {
+        "shape": "note",
+        "color": "yellow"
+    },
+    "yellow_database": {
+        "shape": "cylinder",
+        "color": "yellow"
+    },
+    "yellow_table": {
+        "shape": "cube",
+        "color": "yellow"
+    },
+    "blue_api": {
+        "shape": "cloud",
+        "color": "blue"
+    },
+    "blue_connector": {
+        "shape": "diamond",
+        "color": "blue"
+    },
+    "blue_script": {
+        "shape": "note",
+        "color": "blue"
+    },
+    "blue_database": {
+        "shape": "cylinder",
+        "color": "blue"
+    },
+    "blue_table": {
+        "shape": "cube",
+        "color": "blue"
+    },
+    "gray_api": {
+        "shape": "cloud",
+        "color": "gray"
+    },
+    "gray_connector": {
+        "shape": "diamond",
+        "color": "gray"
+    },
+    "gray_script": {
+        "shape": "note",
+        "color": "gray"
+    },
+    "gray_database": {
+        "shape": "cylinder",
+        "color": "gray"
+    },
+    "gray_table": {
+        "shape": "cube",
+        "color": "gray"
+    }
+}
