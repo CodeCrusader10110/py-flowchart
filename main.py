@@ -1,5 +1,5 @@
 """
-Script that will run modules to build draw.io CSV import text
+Script that builds the draw.io CSV import text file
 """
 
 # test ids
